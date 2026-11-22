@@ -1,0 +1,1 @@
+"""Election and market tracker."""

@@ -1,0 +1,15 @@
+name: Daily refresh
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements.txt
+      - env: {DEMO_MODE: "0"}
+        run: python -m src.cli refresh --countries all

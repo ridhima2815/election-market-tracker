@@ -1,0 +1,33 @@
+country,election_type,event_date,status,source_url,verified,note
+IN,General Election,2024-06-04,past,https://www.eci.gov.in/,true,Results announcement
+IN,General Election,2019-05-23,past,https://www.eci.gov.in/,true,Results announcement
+IN,General Election,2014-05-16,past,https://www.eci.gov.in/,true,Results announcement
+IN,General Election,2029-01-01,upcoming,,false,Placeholder date; verify official schedule
+US,Presidential Election,2024-11-05,past,https://www.fec.gov/,true,Election day
+US,Presidential Election,2020-11-03,past,https://www.fec.gov/,true,Election day
+US,Presidential Election,2016-11-08,past,https://www.fec.gov/,true,Election day
+US,Presidential Election,2028-11-07,upcoming,,false,Future date; verify official schedule
+GB,General Election,2024-07-04,past,https://www.electoralcommission.org.uk/,true,Election day
+GB,General Election,2019-12-12,past,https://www.electoralcommission.org.uk/,true,Election day
+GB,General Election,2017-06-08,past,https://www.electoralcommission.org.uk/,true,Election day
+GB,General Election,2029-01-01,upcoming,,false,Placeholder date; verify official schedule
+JP,General Election,2024-10-27,past,https://www.soumu.go.jp/,false,Verify date and event definition
+JP,General Election,2021-10-31,past,https://www.soumu.go.jp/,true,Election day
+JP,General Election,2017-10-22,past,https://www.soumu.go.jp/,true,Election day
+JP,General Election,2028-01-01,upcoming,,false,Placeholder date; verify official schedule
+DE,Federal Election,2025-02-23,past,https://www.bundeswahlleiterin.de/,true,Election day
+DE,Federal Election,2021-09-26,past,https://www.bundeswahlleiterin.de/,true,Election day
+DE,Federal Election,2017-09-24,past,https://www.bundeswahlleiterin.de/,true,Election day
+DE,Federal Election,2029-01-01,upcoming,,false,Placeholder date; verify official schedule
+FR,Presidential Election,2022-04-24,past,https://www.interieur.gouv.fr/,true,Second round
+FR,Presidential Election,2017-05-07,past,https://www.interieur.gouv.fr/,true,Second round
+FR,Presidential Election,2012-05-06,past,https://www.interieur.gouv.fr/,true,Second round
+FR,Presidential Election,2027-04-01,upcoming,,false,Placeholder date; verify official schedule
+BR,General Election,2022-10-30,past,https://www.tse.jus.br/,true,Second-round results
+BR,General Election,2018-10-28,past,https://www.tse.jus.br/,true,Second-round results
+BR,General Election,2014-10-26,past,https://www.tse.jus.br/,true,Second-round results
+BR,General Election,2030-10-01,upcoming,,false,Placeholder date; verify official schedule
+KR,Presidential Election,2025-06-03,past,https://www.nec.go.kr/,true,Verify official record
+KR,Presidential Election,2022-03-09,past,https://www.nec.go.kr/,true,Election day
+KR,Presidential Election,2017-05-09,past,https://www.nec.go.kr/,true,Election day
+KR,Presidential Election,2030-01-01,upcoming,,false,Placeholder date; verify official schedule

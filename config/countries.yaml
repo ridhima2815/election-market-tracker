@@ -1,0 +1,9 @@
+countries:
+  IN: {name: India, iso2: IN, iso3: IND, ticker: "^NSEI", currency: INR, timezone: Asia/Kolkata, latitude: 20.5937, longitude: 78.9629, news_locale: en-IN}
+  US: {name: United States, iso2: US, iso3: USA, ticker: "^GSPC", currency: USD, timezone: America/New_York, latitude: 37.0902, longitude: -95.7129, news_locale: en-US}
+  GB: {name: United Kingdom, iso2: GB, iso3: GBR, ticker: "^FTSE", currency: GBP, timezone: Europe/London, latitude: 55.3781, longitude: -3.4360, news_locale: en-GB}
+  JP: {name: Japan, iso2: JP, iso3: JPN, ticker: "^N225", currency: JPY, timezone: Asia/Tokyo, latitude: 36.2048, longitude: 138.2529, news_locale: en-US}
+  DE: {name: Germany, iso2: DE, iso3: DEU, ticker: "^GDAXI", currency: EUR, timezone: Europe/Berlin, latitude: 51.1657, longitude: 10.4515, news_locale: en-US}
+  FR: {name: France, iso2: FR, iso3: FRA, ticker: "^FCHI", currency: EUR, timezone: Europe/Paris, latitude: 46.2276, longitude: 2.2137, news_locale: en-US}
+  BR: {name: Brazil, iso2: BR, iso3: BRA, ticker: "^BVSP", currency: BRL, timezone: America/Sao_Paulo, latitude: -14.2350, longitude: -51.9253, news_locale: en-US}
+  KR: {name: South Korea, iso2: KR, iso3: KOR, ticker: "^KS11", currency: KRW, timezone: Asia/Seoul, latitude: 35.9078, longitude: 127.7669, news_locale: en-US}
